@@ -1,0 +1,1 @@
+Pra rodare precisa ter o mongo instalado, pacotes necessários: npm i express nodemon express-handlebars@5.3.5 mongodb
